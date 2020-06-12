@@ -19,5 +19,17 @@ Here w > save
      q > quit
      
      =================================================================================
+     
+    Q- 3 Create three users jay, veeru, shiva with useradd command and assign password "welcome@1234" to all users.
+         then try to switch user with su - user command "try to switch to all users for practise".
+         
+    Q - 4 Create atleast 10 files and write lines in all files "I will learn linux in 30 days"
+    
+    Q - 5 Create nested directories and do practise of cd, cd .., cd ../../, cd - try to run these cd  command find out what is happening 
+          after every cd try to run pwd command to check current directory.
+          
+    Q - 6 
+
+
 
 
