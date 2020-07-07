@@ -27,8 +27,25 @@ Here w > save
     
     Q - 5 Create nested directories and do practise of cd, cd .., cd ../../, cd - try to run these cd  command find out what is happening 
           after every cd try to run pwd command to check current directory.
-          
-    Q - 6 
+         ===============================================================================================
+         
+         
+   how to open file and write into it using vi or vim
+   
+   example:
+   
+   vim file1
+   
+   press i to insert mode
+   
+   This is yamen write anything here
+   
+   now press ESC > shift : > wq
+   
+   here w - save
+        q - quit
+        to save forcefully use wq!
+   
 
 
 
