@@ -47,6 +47,16 @@ Here w > save
         to save forcefully use wq!
    
 
+==============================================================================================
 
+manually add user
+
+/etc/passwd
+/etc/shadow
+/etc/group
+
+make directory in /home/username
+
+copy .bashrc bash_profile & bash_logout files from /etc/skel to /home/username
 
 
