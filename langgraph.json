@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/langchain-ai/langgraph/main/langgraph.schema.json",
+  "name": "openai-agent",
+  "entrypoint": "agent:app",
+  "python_version": "3.11",
+  "env": {
+    "OPENAI_API_KEY": "@OPENAI_API_KEY"
+  }
+}
